@@ -1,0 +1,6 @@
+node_modules/
+.remotion/
+output/previews/
+.DS_Store
+*.log
+npm-debug.log*
